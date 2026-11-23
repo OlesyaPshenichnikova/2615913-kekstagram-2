@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Леся Пшеничникова](https://up.htmlacademy.ru/javascript-individual/2/user/2615913).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://up.htmlacademy.ru/javascript-individual/2/user/2615913).
+
 
 ---
 

@@ -3,6 +3,7 @@
 * Студент: [Леся Пшеничникова](https://up.htmlacademy.ru/javascript-individual/2/user/2615913).
 * Наставник: [Виктория Никитина](https://up.htmlacademy.ru/javascript-individual/2/user/2615913).
 
+
 ---
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
